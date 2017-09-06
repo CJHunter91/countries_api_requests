@@ -1,0 +1,11 @@
+  .table, select {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+
+table{
+  width: 400px;
+  text-align: center;
+  padding: 10px;
+}
